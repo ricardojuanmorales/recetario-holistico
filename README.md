@@ -1,6 +1,3 @@
-# recetario-holistico
-Recetario Holístico V1.1 MVP
-
 # 🌿 Recetario Holístico
 
 > **Plataforma educativa que integra medicina ancestral (Ayurveda, MTC) con ciencia moderna para crear un recetario holístico basado en evidencia científica.**
